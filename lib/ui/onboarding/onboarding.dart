@@ -5,12 +5,6 @@ import 'package:hot_singles/utils/colors.dart';
 import 'package:hot_singles/widget/onboarding/onboarding1.dart';
 import 'package:hot_singles/widget/onboarding/onboarding2.dart';
 import 'package:hot_singles/widget/onboarding/onboarding3.dart';
-import 'package:hot_singles/utils/buttons/custom_button.dart';
-import 'package:hot_singles/utils/buttons/textbutton.dart';
-import 'package:hot_singles/utils/colors.dart';
-import 'package:hot_singles/utils/spacing.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:hot_singles/widget/appname.dart';
 
 class Onboarding extends StatefulWidget {
   const Onboarding({Key? key}) : super(key: key);
